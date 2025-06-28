@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on algorithm
+- 🔭 I’m currently working on databases
 - 🌱 I’m currently learning java and c++
 - 👯 I’m looking to collaborate on learning experience
 - 🤔 I’m looking for help with programming
